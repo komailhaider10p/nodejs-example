@@ -1,0 +1,30 @@
+{
+  "name": "node-jenkins-app-example",
+  "version": "0.0.1",
+  "description": "Simple Hello World app",
+  "main": "app.js",
+  "scripts": {
+    "test": "jasmine-node spec"
+  },
+  "author": "Komail Haider",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {
+    "jasmine-node": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarveyD/node-jenkins-app-example.git"
+  },
+  "keywords": [
+    "Node",
+    "Jenkins"
+  ],
+  "bugs": {
+    "url": "https://github.com/HarveyD/node-jenkins-app-example/issues"
+  },
+  "homepage": "https://github.com/HarveyD/node-jenkins-app-example#readme"
+}
